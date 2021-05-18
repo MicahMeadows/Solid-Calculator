@@ -34,6 +34,9 @@ namespace SOLID.Calculator
 
             string result = calculator.ProcessCalculation(stringExpression);
 
+            if (result == "undefined")
+                MessageBox.Show("Cannot divide by zero");
+
             Reset();
 
             DisplayTextBox.Text = result;
