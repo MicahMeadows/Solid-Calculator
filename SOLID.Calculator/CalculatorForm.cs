@@ -1,5 +1,7 @@
 ﻿using SOLID.Calculator.Expressions;
 using SOLID.Calculator.Calculation;
+using System.Windows.Forms;
+using System;
 
 namespace SOLID.Calculator
 {
