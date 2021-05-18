@@ -242,7 +242,6 @@ namespace SOLID.Calculator
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
             this.Name = "CalculatorForm";
-            this.Opacity = 0.95D;
             this.Text = "Calculator";
             this.ResumeLayout(false);
             this.PerformLayout();
