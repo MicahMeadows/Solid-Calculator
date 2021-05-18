@@ -34,14 +34,14 @@ namespace SOLID.Calculator
 
             string result = calculator.ProcessCalculation(stringExpression);
 
-            if (result == "undefined")
-                MessageBox.Show("Cannot divide by zero");
-
             Reset();
 
             DisplayTextBox.Text = result;
 
             lhsText = result;
+
+            if (result == "undefined")
+                MessageBox.Show("Cannot divide by zero");
         }
 
         private void NumberButton_Click(object sender, EventArgs e)
