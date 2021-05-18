@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micah\\source\\repos\\SOLID.Calculator\\SOLID.Calculator\\SOLID.Calculator.csproj": {}
+    "C:\\Users\\JohnWHoltzworth\\Desktop\\Solid-Calculator\\SOLID.Calculator\\SOLID.Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micah\\source\\repos\\SOLID.Calculator\\SOLID.Calculator\\SOLID.Calculator.csproj": {
+    "C:\\Users\\JohnWHoltzworth\\Desktop\\Solid-Calculator\\SOLID.Calculator\\SOLID.Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micah\\source\\repos\\SOLID.Calculator\\SOLID.Calculator\\SOLID.Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\JohnWHoltzworth\\Desktop\\Solid-Calculator\\SOLID.Calculator\\SOLID.Calculator.csproj",
         "projectName": "SOLID.Calculator",
-        "projectPath": "C:\\Users\\Micah\\source\\repos\\SOLID.Calculator\\SOLID.Calculator\\SOLID.Calculator.csproj",
-        "packagesPath": "C:\\Users\\Micah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micah\\source\\repos\\SOLID.Calculator\\SOLID.Calculator\\obj\\",
+        "projectPath": "C:\\Users\\JohnWHoltzworth\\Desktop\\Solid-Calculator\\SOLID.Calculator\\SOLID.Calculator.csproj",
+        "packagesPath": "C:\\Users\\JohnWHoltzworth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JohnWHoltzworth\\Desktop\\Solid-Calculator\\SOLID.Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Micah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JohnWHoltzworth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -49,15 +47,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

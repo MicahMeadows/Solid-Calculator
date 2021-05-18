@@ -1,7 +1,7 @@
-﻿using System;
-using System.Windows.Forms;
-using SOLID.Calculator.Expressions;
+﻿using SOLID.Calculator.Expressions;
 using SOLID.Calculator.Calculation;
+using System.Windows.Forms;
+using System;
 
 namespace SOLID.Calculator
 {
@@ -39,6 +39,9 @@ namespace SOLID.Calculator
             DisplayTextBox.Text = result;
 
             lhsText = result;
+
+            if (result == "undefined")
+                MessageBox.Show("Cannot divide by zero");
         }
 
         private void NumberButton_Click(object sender, EventArgs e)
