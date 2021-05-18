@@ -1,6 +1,4 @@
-﻿using System;
-using System.Windows.Forms;
-using SOLID.Calculator.Expressions;
+﻿using SOLID.Calculator.Expressions;
 using SOLID.Calculator.Calculation;
 
 namespace SOLID.Calculator
