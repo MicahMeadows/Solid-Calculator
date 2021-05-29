@@ -26,6 +26,7 @@ namespace SOLID.Calculator.Tests
 
             // Then
             IntExpression expectedIntExpression = new IntExpression { lhs = 5, rhs = 10, op = Operator.Add };
+
             Assert.AreEqual(expectedIntExpression, intExpression);
         }
     }

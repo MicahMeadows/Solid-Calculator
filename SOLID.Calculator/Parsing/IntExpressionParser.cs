@@ -6,8 +6,6 @@ namespace SOLID.Calculator.Parsing
     {
         public IntExpressionParser() { }
 
-        
-
         public IntExpression ParseExpression(StringExpression stringExpression)
         {
             IntExpression intExpression = new IntExpression();
