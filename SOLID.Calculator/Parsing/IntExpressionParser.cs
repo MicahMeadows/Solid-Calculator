@@ -5,6 +5,9 @@ namespace SOLID.Calculator.Parsing
     public class IntExpressionParser : IExpressionParser<IntExpression>
     {
         public IntExpressionParser() { }
+
+        
+
         public IntExpression ParseExpression(StringExpression stringExpression)
         {
             IntExpression intExpression = new IntExpression();
