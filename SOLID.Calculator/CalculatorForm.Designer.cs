@@ -243,6 +243,7 @@ namespace SOLID.Calculator
             this.MaximizeBox = false;
             this.Name = "CalculatorForm";
             this.Text = "Calculator";
+//            this.Load += new System.EventHandler(this.CalculatorForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

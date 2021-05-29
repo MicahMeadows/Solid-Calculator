@@ -4,7 +4,7 @@ C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\bin\Debug\netcorea
 C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\bin\Debug\netcoreapp3.1\SOLID.Calculator.runtimeconfig.dev.json
 C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\bin\Debug\netcoreapp3.1\SOLID.Calculator.dll
 C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\bin\Debug\netcoreapp3.1\SOLID.Calculator.pdb
-C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\obj\Debug\netcoreapp3.1\SOLID.Calculator.csprojAssemblyReference.cache
+C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\obj\Debug\netcoreapp3.1\SOLID.Calculator.CalculatorForm.resources
 C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\obj\Debug\netcoreapp3.1\SOLID.Calculator.csproj.GenerateResource.cache
 C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\obj\Debug\netcoreapp3.1\SOLID.Calculator.AssemblyInfoInputs.cache
 C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\obj\Debug\netcoreapp3.1\SOLID.Calculator.AssemblyInfo.cs
@@ -12,4 +12,4 @@ C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\obj\Debug\netcorea
 C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\obj\Debug\netcoreapp3.1\SOLID.Calculator.dll
 C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\obj\Debug\netcoreapp3.1\SOLID.Calculator.pdb
 C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\obj\Debug\netcoreapp3.1\SOLID.Calculator.genruntimeconfig.cache
-C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\obj\Debug\netcoreapp3.1\SOLID.Calculator.CalculatorForm.resources
+C:\Users\Micah\source\repos\SOLID.Calculator\SOLID.Calculator\obj\Debug\netcoreapp3.1\SOLID.Calculator.csprojAssemblyReference.cache
